@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 # -----------------------------
 # Configuration Paths
 # -----------------------------
-CONFIG_FILE = "ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt"
-MODEL_FILE = "frozen_inference_graph.pb"
+CONFIG_FILE = "models/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt"
+MODEL_FILE = "models/frozen_inference_graph.pb"
 LABELS_FILE = "Labels.txt"
 
 IMAGE_PATH = "download31.jpg"
@@ -140,3 +140,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
