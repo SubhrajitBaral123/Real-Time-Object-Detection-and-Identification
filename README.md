@@ -78,10 +78,11 @@ Press **`q`** to exit video or webcam detection.
 ![Image Detection](screenshots/image_output.png)
 
 ### Video Detection
-![Video Detection](screenshots/video_output.png)
+(Screenshot will be added soon)
 
 ### Webcam Detection
-![Webcam Detection](screenshots/webcam_output.png)
+(Screenshot will be added soon)
+
 
 ---
 
